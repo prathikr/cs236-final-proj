@@ -1,0 +1,16 @@
+numpy
+matplotlib
+natsort
+omegaconf
+einops
+Pillow
+timm
+tqdm
+wandb
+torchmetrics==0.10.3
+scikit-image
+pytorch-lightning
+lpips
+transformers
+azureml-core
+kornia
